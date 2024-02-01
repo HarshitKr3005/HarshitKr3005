@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics<br>👯 I’m looking to collaborate on projects related to Data Analytics<br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning Python libraries<br>💬 Ask me about tech and sport
+🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on projects related to Machine Learning<br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning Python libraries<br>💬 Ask me about tech and sport
 
 
 # 💻 Tech Stack:
